@@ -8,7 +8,7 @@
 
 📊 Apaixonado por análise, estatística e visualização de dados.  
 💼 Buscando minha primeira oportunidade profissional como Analista de Dados Júnior.  
-🛠️ Atualmente estudando Python para Análise de Dados, SQL, Power BI, Excel Avançado, e fundamentos de Estatística e BI.  
+🛠️ Atualmente estudando Python para Análise de Dados, PostgreSQL, Power BI, Excel, e fundamentos de Estatística e BI.  
 🔍 Interessado em entender o comportamento dos dados para apoiar tomadas de decisão baseadas em evidências.  
 🚀 Estou em construção de um portfólio com projetos práticos, desafios resolvidos e análises de datasets públicos.  
 
