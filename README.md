@@ -1,27 +1,35 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-🎯 Olá! Eu sou um estudante e aspirante a Analista de Dados, em constante evolução e aprendizado. Sou movido pela curiosidade, pela busca por insights a partir de dados e pelo desejo de transformar informação em valor. Estou construindo minha carreira com foco em fundamentos sólidos e boas práticas.
+🎯 Engenheiro de Dados em formação, com experiência profissional em suporte técnico e resolução de problemas. Atualmente estou direcionando minha carreira para Engenharia de Dados, desenvolvendo projetos práticos para aprender a construir, transformar e organizar dados de forma eficiente.
 
----
+Tenho interesse em transformar dados brutos em informações confiáveis, criando processos de ETL, pipelines de dados, bancos de dados e soluções automatizadas.
 
-## 🧑‍💻 Sobre Mim
+🧑‍💻 Sobre Mim
+🏗️ Foco atual em Engenharia de Dados
+🐍 Desenvolvimento de soluções utilizando Python
+🗄️ Construção e manipulação de bancos de dados com SQL e PostgreSQL
+🔄 Estudos em ETL, ELT e pipelines de dados
+📊 Conhecimentos em Power BI e análise de dados
+🧹 Interesse em qualidade, limpeza e transformação de dados
+🏗️ Estudando modelagem de dados e arquitetura de pipelines
+⚙️ Buscando desenvolver soluções automatizadas e escaláveis
+🚀 Construindo projetos práticos para meu portfólio de Engenharia de Dados
+🛠️ Tecnologias & Ferramentas
+🐍 Programação
 
-📊 Apaixonado por análise, estatística e visualização de dados.  
-💼 Buscando minha primeira oportunidade profissional como Analista de Dados Júnior.  
-🛠️ Atualmente estudando Python para Análise de Dados, PostgreSQL, Power BI, Excel, e fundamentos de Estatística e BI.  
-🔍 Interessado em entender o comportamento dos dados para apoiar tomadas de decisão baseadas em evidências.  
-🚀 Estou em construção de um portfólio com projetos práticos, desafios resolvidos e análises de datasets públicos.  
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> </p>
 
----
+🗄️ Banco de Dados
 
-## 🛠️ Tecnologias & Ferramentas
+<p> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+🔄 Engenharia de Dados
+
+<p> <img src="https://img.shields.io/badge/ETL-4B5563?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Pipelines-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Modeling-7C3AED?style=for-the-badge"/> </p>
+
+🔧 Ferramentas
+
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
 
 
 ---
@@ -29,7 +37,7 @@
 ## 🤝 Vamos nos Conectar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paesgui/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermepaes2023@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilherme.d.paes@gmail.com)
 
 
 ---
