@@ -42,8 +42,8 @@ Gosto de dados limpos, processos que rodam sozinhos e de entender **por que** al
 
 | Projeto | O que faz |
 |---|---|
-| [CNPJ PIPELINE](https://github.com/paesgui/cnpj-pipeline) | Pipeline das transações até um dashboard que mostra onde as fraudes se concentram |
-| [Bank Fraud Analytics](https://github.com/paesgui/bank-fraud-analytics) | Uma linha sobre o problema que resolve |
+| [CNPJ PIPELINE](https://github.com/paesgui/cnpj-pipeline) | Pipeline de Dados desenvolvido para processar, transformar e analisar os dados públicos de empresas disponibilizados pela Receita Federal do Brasil. |
+| [Bank Fraud Analytics](https://github.com/paesgui/bank-fraud-analytics) | Pipeline de dados e análise de fraude bancária |
 
 
 ---
