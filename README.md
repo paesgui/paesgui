@@ -2,7 +2,7 @@
 
 # Oi, eu sou o Guilherme 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF7A1A&center=true&vCenter=true&width=560&lines=Transformando+dados+brutos+em+informa%C3%A7%C3%A3o+confi%C3%A1vel;Aprendendo+na+pr%C3%A1tica%2C+um+pipeline+por+vez" alt="Transformando dados brutos em informação confiável" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF7A1A&center=true&vCenter=true&width=760&height=50&lines=Dados+brutos+em+informa%C3%A7%C3%A3o+confi%C3%A1vel;Aprendendo+na+pr%C3%A1tica%2C+um+pipeline+por+vez" alt="Dados brutos em informação confiável" />
 
 </div>
 
