@@ -39,12 +39,11 @@ Gosto de dados limpos, processos que rodam sozinhos e de entender **por que** al
 
 ## 📂 Projetos
 
-<!-- Troque pelos seus repositórios reais (2 a 4 projetos). -->
 
 | Projeto | O que faz |
 |---|---|
-| [Bank Fraud Analytics](https://github.com/Guipaes01/NOME-DO-REPOSITORIO) | Pipeline das transações até um dashboard que mostra onde as fraudes se concentram |
-| [Nome do projeto](https://github.com/Guipaes01/NOME-DO-REPOSITORIO) | Uma linha sobre o problema que resolve |
+| [CNPJ PIPELINE](https://github.com/paesgui/cnpj-pipeline) | Pipeline das transações até um dashboard que mostra onde as fraudes se concentram |
+| [Bank Fraud Analytics](https://github.com/paesgui/bank-fraud-analytics) | Uma linha sobre o problema que resolve |
 
 
 ---
