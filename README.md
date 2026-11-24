@@ -27,7 +27,6 @@ Gosto de dados limpos, processos que rodam sozinhos e de entender **por que** al
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -47,16 +46,6 @@ Gosto de dados limpos, processos que rodam sozinhos e de entender **por que** al
 | [Bank Fraud Analytics](https://github.com/Guipaes01/NOME-DO-REPOSITORIO) | Pipeline das transações até um dashboard que mostra onde as fraudes se concentram |
 | [Nome do projeto](https://github.com/Guipaes01/NOME-DO-REPOSITORIO) | Uma linha sobre o problema que resolve |
 
----
-
-## 📊 Atividade
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Guipaes01&show_icons=true&hide_border=true&bg_color=0a0708&title_color=ff7a1a&icon_color=ff7a1a&text_color=f6efea" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guipaes01&layout=compact&hide_border=true&bg_color=0a0708&title_color=ff7a1a&text_color=f6efea" alt="Linguagens mais usadas" />
-
-</div>
 
 ---
 
