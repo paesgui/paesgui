@@ -50,7 +50,7 @@ Gosto de dados limpos, processos que rodam sozinhos e de entender **por que** al
 
 ## 🤝 Vamos conversar
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF7A1A?style=flat-square&logo=googlechrome&logoColor=white)](https://guipaes01.github.io)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF7A1A?style=flat-square&logo=googlechrome&logoColor=white)](https://paesgui.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paesgui/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilherme.d.paes@gmail.com)
 
